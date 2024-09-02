@@ -12,7 +12,9 @@ Dr. Najibi's research group focuses on understanding multisector, deeply uncerta
 Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events to enhancing system resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
 The ultimate goal is to develop better ways to address the pressing challenges posed by multisector evolving risks and to create more resilient communities and sustainable interconnected systems (built, natural, and human) that can withstand and adapt to the multifaceted impacts of a rapidly changing climate and environment.
 
-<img src="images/lab_graphical_abstract_2.png" alt="Graphical Abstract" width="70%" />
+<div style="text-align: center;">
+  <img src="images/lab_graphical_abstract_2.png" alt="Graphical Abstract" width="70%" />
+</div>
 
 
 What we do
@@ -30,6 +32,6 @@ In addition, infrastructure systems are highly vulnerable to natural climate var
 
 Where we are
 ======
-We are in the Department of Agricultural and Biological Engineering ([ABE](https://abe.ufl.edu/)), as well as affiliated with the Center for Land Use Efficiency ([CLUE](https://clue.ifas.ufl.edu/)) within the Institute of Food and Agricultural Sciences ([IFAS](https://ifas.ufl.edu/)) at the University of Florida ([UF](https://www.ufl.edu/)), Gainesville, FL.<br/>
+We are in the Department of Agricultural and Biological Engineering ([ABE](https://abe.ufl.edu/)), as well as affiliated with the Center for Land Use Efficiency ([CLUE](https://clue.ifas.ufl.edu/)) within the Institute of Food and Agricultural Sciences ([IFAS](https://ifas.ufl.edu/)) at the University of Florida ([UF](https://www.ufl.edu/)). <br/>
 Address: Frazier-Rogers Hall, 1741 Museum Rd, Gainesville, FL 32603
 
