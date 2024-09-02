@@ -10,7 +10,7 @@ Explore our software, tools, and developed datasets available for download and r
 ### Featured Software & Datasets
 
 *GitHub*
-- **[Stochastic Weather Generator v2.0](https://github.com/nassernajibi/WGEN-v2.0)**: Access our source code, tools, and collaborative projects. Follow us on GitHub to stay updated on the latest releases.
+- **[Stochastic Weather Generator v2.0](https://github.com/nassernajibi/WGEN-v2.0)**
 
 *Harvard Dataverse*
 - **[Global Floods](https://dataverse.harvard.edu/dataverse/dfo1985to2015)**
