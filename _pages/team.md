@@ -12,7 +12,7 @@ author_profile: true  # Optional, depending on your theme
 - **Email:** nn289 <@> cornell {.} edu
 - [Homepage](http://www.nassernajibi.com) [Google Scholar](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/nassernajibi/)
 
-## Current Members 
+## Current Members
 
 ### First Name, Last Name
 - Graduate Student
