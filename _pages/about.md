@@ -13,7 +13,7 @@ Our interdisciplinary, mission-driven research tackles a broad spectrum of chall
 The ultimate goal is to develop better ways to address the pressing challenges posed by multisector evolving risks and to create more resilient communities and sustainable interconnected systems (built, natural, and human) that can withstand and adapt to the multifaceted impacts of a rapidly changing climate and environment.
 
 <div style="text-align: center;">
-  <img src="images/lab_graphical_abstract_2.png" alt="Graphical Abstract" width="70%" />
+  <img src="images/lab_graphical_abstract_2.png" alt="Graphical Abstract" width="50%" />
 </div>
 
 
