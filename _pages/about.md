@@ -12,13 +12,13 @@ We work on enhancing climate risk assessments and infrastructure resilience in b
 What we do
 ======
 Our focus is mainly on improving traditional perspectives centered on multi-scale hydroclimate systems analysis under three synergistic core areas:
-1) Understanding the climate risks associated with natural and built environments exposed to hydroclimate extremes (e.g., floods, droughts, extreme precipitation events, heat/coldwaves),
-2) Adapting stochastic decision models to enhance climate resilience in infrastructure systems and ecosystems in response to hydroclimate variability and climate change impacts, and
+
+1) Understanding the climate risks associated with natural and built environments exposed to hydroclimate extremes (e.g., floods, droughts, extreme precipitation events, heat/coldwaves)
+
+2) Adapting stochastic decision models to enhance climate resilience in infrastructure systems and ecosystems in response to hydroclimate variability and climate change impacts
+
 3) Integrating process-based insights with ensemble-based frameworks to assess the climate vulnerability of infrastructure systems and the public well-being.
 
 Why we do
 ======
 Climate risk coordinators and regional planners must prepare for the increased stress of changing climate, but significant uncertainty remains about how the climate will evolve in the coming decades. While most climate projections agree that the future will be warmer with intensified precipitation, the rate of these changes is less certain, as are more nuanced shifts such as changes in average precipitation patterns or alterations in atmospheric circulation that could impact regional conditions. Additionally, many infrastructure systems are aging, with critical components nearing or exceeding their intended lifespans, making them particularly vulnerable to climate-related stresses. These older systems may lack the resilience needed to cope with the increased frequency and intensity of extreme weather events. Furthermore, infrastructure systems are highly vulnerable to natural climate variability unrelated to climate change, and this range of natural fluctuations must also be considered in future planning efforts, underscoring the urgent need for modernization and adaptation strategies.
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
