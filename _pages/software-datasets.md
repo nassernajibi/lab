@@ -7,7 +7,7 @@ author_profile: true  # Optional, depending on your theme
 
 Explore our software, tools, and developed datasets available for download and research use. You can find our repositories, data archives, and software packages on GitHub, Harvard Dataverse, and Zenodo.
 
-### Featured Software & Datasets
+### Featured Tools/Datasets
 
 *GitHub*
 - **[Stochastic Weather Generator v2.0](https://github.com/nassernajibi/WGEN-v2.0)**
