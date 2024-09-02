@@ -26,3 +26,8 @@ Why we do
 Many infrastructure systems are aging, with critical components nearing or exceeding their intended lifespans, making them particularly vulnerable to climate-related stresses. These systems together with ecosystems and other urban systems may lack the resilience needed to cope with the increased frequency and intensity of extreme weather events.<br/>
 Climate risk coordinators and planners must prepare for the increased stress of changing climate, but significant uncertainty remains about how the climate will evolve in the coming decades. While most climate projections agree that the future will be warmer with intensified extremes, the rate of these changes is less certain, as are more nuanced shifts such as changes in the average patterns of frequency, duration, and intensity or alterations in atmospheric circulation that could impact regional conditions.<br/>
 In addition, infrastructure systems are highly vulnerable to natural climate variability unrelated to climate change, and this range of natural fluctuations must also be considered in future short-to-long term planning efforts, underscoring the urgent need for re-evaluating factsheets and adaptation strategies.
+
+Where we are
+======
+We are in the Department of Agricultural and Biological Engineering [(ABE)] (https://abe.ufl.edu/), affiliated with the Center for Land Use Efficiency [(CLUE)] (https://clue.ifas.ufl.edu/) within the Institute of Food and Agricultural Sciences [(IFAS)] (https://ifas.ufl.edu/) at the University of Florida [(UF)] (https://www.ufl.edu/), Gainesville, FL.<br/>
+Office: Frazier-Rogers Hall, 1741 Museum Rd, Gainesville, FL 32603
