@@ -1,39 +1,20 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+layout: archive  # Adjust this to match an existing layout in your _layouts folder
+title: "Publications"
+permalink: /publications/
+author_profile: true  # Optional, adjust based on your theme
 ---
 
-{% include base_path %}
-{% include toc %}
+## Our Publications
 
-## Privacy Policy
+[Please visit our Google Scholar profiles (i.e., PI and group members) to see what we have been up to most recently.
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+### 5 Selected Publications (Recent)
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+- **Najibi et al. (2024).** *A statewide, weather-regime based stochastic weather generator for process-based bottom-up climate risk assessments in California – Part I: Model evaluation.* Climate Services [DOI link](https://doi.org/10.1016/j.cliser.2024.100489)
+- **Najibi et al. (2024).** *A statewide, weather-regime based stochastic weather generator for process-based bottom-up climate risk assessments in California – Part II: Thermodynamic and dynamic climate change scenarios.* Climate Services [DOI link](https://doi.org/10.1016/j.cliser.2024.100485)
+- **Najibi, N. and S. Steinschneider (2023).** *Extreme Precipitation‐Temperature Scaling in California: The Role of Atmospheric Rivers.* Geophysical Research Letters [DOI link](https://doi.org/10.1029/2023GL104606)
+- **Najibi, N. and S. Steinschneider (2023).** *Compound Continental Risk of Multiple Extreme Floods in the United States.* Geophysical Research Letters [DOI link](https://doi.org/10.1029/2023GL105297)
+- **Najibi, N. and N. Devineni (2023).** *Scaling of Floods With Geomorphologic Characteristics and Precipitation Variability Across the Conterminous United States.* Water Resources Research [DOI link](https://doi.org/10.1029/2022WR032815)
 
-### Log Files
-
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+*For the full list of publications, please refer to our Google Scholar profiles.*
