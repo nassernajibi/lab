@@ -5,8 +5,6 @@ permalink: /extension/
 author_profile: true  # Optional, adjust based on your theme
 ---
 
-## Extension
-
 Our extension work focuses on addressing critical challenges in water supply, stormwater systems, and risk management frameworks through innovative tools and data-driven approaches across the state of Florida.
 
 ### 1) Water Supply Systems Risk

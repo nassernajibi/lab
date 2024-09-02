@@ -5,9 +5,6 @@ permalink: /join-us/
 author_profile: true  # Optional, adjust based on your theme
 ---
 
-
-## Join Us!
-
 We are always looking for talented and motivated individuals to join our research group. Below are the current opportunities available for Ph.D., M.Sc., Undergraduate students, Postdoctoral Researchers, Internships, and Visiting Scholars.
 
 ### Ph.D./M.Sc. Opportunities

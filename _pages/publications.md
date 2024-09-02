@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true  # Optional, adjust based on your theme
 ---
 
-## Our Publications
-
 Please visit our Google Scholar profiles (i.e., PI and group members) to see what we have been up to most recently.
 
 ### Five Selected Publications (Most Recent)
