@@ -9,7 +9,7 @@ author_profile: true  # Optional, depending on your theme
 - **Principal Investigator**
 - **Research Interests:** hydroclimate extremes, climate resilience, statistical modeling, atmosphere dynamics, remote sensing
 - **Email:** nn289@cornell.edu
-- [[Personal Homepage]](http://www.nassernajibi.com) [[LinkedIn]](https://www.linkedin.com/in/nassernajibi/)
+- [Personal Homepage](http://www.nassernajibi.com) [LinkedIn](https://www.linkedin.com/in/nassernajibi/)
 
 ### First Name, Last Name
 - **Role:** Graduate Student
