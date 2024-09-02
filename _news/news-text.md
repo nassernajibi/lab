@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "News"
-permalink: /news/
+permalink: /news/news-text.md
 author_profile: true
 redirect_from:
   - /news
