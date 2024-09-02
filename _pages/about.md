@@ -35,3 +35,6 @@ Where we are
 We are in the Department of Agricultural and Biological Engineering ([ABE](https://abe.ufl.edu/)), as well as affiliated with the Center for Land Use Efficiency ([CLUE](https://clue.ifas.ufl.edu/)) within the Institute of Food and Agricultural Sciences ([IFAS](https://ifas.ufl.edu/)) at the University of Florida ([UF](https://www.ufl.edu/)). <br/>
 Address: Frazier-Rogers Hall, 1741 Museum Rd, Gainesville, FL 32603
 
+<div style="text-align: center;">
+  <img src="images/University-of-Florida-Logo.png" alt="Graphical Abstract" width="70%" />
+</div>
