@@ -14,12 +14,9 @@ The ultimate goal is to develop better ways to address the pressing challenges p
 What we do
 ======
 Our focus is mainly on improving traditional perspectives centered on multi-scale hydroclimate systems analysis under three synergistic core areas:
-
-1) Understanding the climate risks associated with natural and built environments exposed to hydroclimate extremes (e.g., floods, droughts, extreme precipitation events, heat/coldwaves)
-
-2) Adapting stochastic decision models to enhance climate resilience in infrastructure systems and ecosystems in response to hydroclimate variability and climate change impacts
-
-3) Integrating process-based insights with ensemble-based frameworks to assess the climate vulnerability of infrastructure systems and the public well-being.
+1) Understanding the climate risks associated with natural and built environments exposed to hydroclimate extremes (e.g., floods, droughts, extreme precipitation events, heat/coldwaves)<br/>
+2) Adapting stochastic decision models to enhance climate resilience in infrastructure systems and ecosystems in response to hydroclimate variability and climate change impacts<br/>
+3) Integrating process-based insights with ensemble-based frameworks to assess the climate vulnerability of infrastructure systems and the public well-being.<br/>
 
 Why we do
 ======
