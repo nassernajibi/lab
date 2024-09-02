@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-We work on enhancing climate risk assessments and infrastructure resilience in built and environmental systems. Dr. Najibi's research group focuses on understanding multisector, deeply uncertain, and dynamic climate risks to enhance resilience and adaptation to multi-hazards evolving with the changing environment.
-
-Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events to enhancing system resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations. The ultimate goal is to develop better ways to address the pressing challenges posed by multisector evolving risks and to create more resilient communities and sustainable interconnected systems (built, natural, and human) that can withstand and adapt to the multifaceted impacts of a rapidly changing climate and environment.
+We work on enhancing climate risk assessments and infrastructure resilience in built and environmental systems. Dr. Najibi's research group focuses on understanding multisector, deeply uncertain, and dynamic climate risks to enhance resilience and adaptation to multi-hazards evolving with the changing environment.<br/>
+Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events to enhancing system resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
+The ultimate goal is to develop better ways to address the pressing challenges posed by multisector evolving risks and to create more resilient communities and sustainable interconnected systems (built, natural, and human) that can withstand and adapt to the multifaceted impacts of a rapidly changing climate and environment.
 
 What we do
 ======
