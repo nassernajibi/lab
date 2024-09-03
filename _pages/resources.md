@@ -1,7 +1,7 @@
 ---
 layout: archive  # Ensure this layout file exists in _layouts
-title: "Software and Datasets"
-permalink: /software-datasets/
+title: "Resources"
+permalink: /resources/
 author_profile: true  # Optional, depending on your theme
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: archive  # Make sure this layout file exists in _layouts
-title: "Team"
+title: "Our Team"
 permalink: /team/
 author_profile: true  # Optional, depending on your theme
 ---

@@ -1,7 +1,7 @@
 ---
 layout: archive  # Ensure this layout file exists in _layouts
-title: "Join Us!"
-permalink: /join-us/
+title: "Opportunities"
+permalink: /opportunities/
 author_profile: true  # Optional, adjust based on your theme
 ---
 
