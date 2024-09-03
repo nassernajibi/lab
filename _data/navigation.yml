@@ -15,10 +15,10 @@ main:
     url: /extension/
     
   - title: "Resources"
-    url: /software-datasets/
+    url: /resources/
 
   - title: "News"
     url: /news/
     
   - title: "Opportunities"
-    url: /join-us/   
+    url: /opportunities/   
