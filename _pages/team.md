@@ -7,7 +7,7 @@ author_profile: true  # Optional, depending on your theme
 
 ### Nasser Najibi, Principal Investigator
 - Assistant Professor (Jan 2025- )
-- **Research Interests:** hydroclimate extremes, climate resilience, statistical/data-driven methods, climate change, atmospheric dynamics, remote sensing
+- **Research Interests:** climate resilience, hydroclimate extremes, statistical/data-driven methods, climate change, atmospheric dynamics, remote sensing
 - **Experience:** Research/Postdoctoral Associate (Cornell Unversity); Postdoctoral Fellow (ORISE/USACE Engineer Research and Development Center); Ph.D. (City University of New York); M.Phil. (City University of New York); M.Sc. (University of Chinese Academy of Sciences); B.Sc. (University of Tehran).
 - **Email:** nn289 <@> cornell {.} edu
 - [Homepage](http://www.nassernajibi.com) [Google Scholar](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/nassernajibi/)
@@ -41,4 +41,4 @@ author_profile: true  # Optional, depending on your theme
 - **Email:**
 - Web
 
-## Past Research Assistants and Interns
+## Past Group Members
