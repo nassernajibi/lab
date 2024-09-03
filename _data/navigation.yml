@@ -5,10 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "News"
-    url: /news/
-
-  - title: "Team"
+  - title: "Our Team"
     url: /team/
 
   - title: "Publications"
@@ -20,5 +17,8 @@ main:
   - title: "Software/Datasets"
     url: /software-datasets/
 
+  - title: "News"
+    url: /news/
+    
   - title: "Join Us!"
     url: /join-us/   
