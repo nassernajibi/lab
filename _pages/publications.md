@@ -20,7 +20,7 @@ _Climate Change Impacts_
 
 _Compound Climate Extremes_
 - **Najibi, Devineni, and Lall (2023).** Compound Continental Risk of Multiple Extreme Floods in the United States. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL105297))
-- **Najibi et al. (2020).** Understanding the Spatial Organization of Simultaneous Heavy Precipitation Events over the Conterminous United States. *Journal of Geophysical Research: Atmospheres* ([DOI link](https://doi.org/10.1029/2020JD033036))
+- **Najibi et al. (2020).** Understanding the Spatial Organization of Simultaneous Heavy Precipitation Events over the Conterminous United States. *Journal of Geophysical Research: Atmospheres* ([DOI link](https://doi.org/10.1029/2020JD033036){:target="_blank"})
 
 
 *For the full list of publications, please refer to our Google Scholar profiles!*
