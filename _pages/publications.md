@@ -9,10 +9,16 @@ Please visit our Google Scholar profiles (i.e., PI and group members) to see wha
 
 ### Selected Work (Most Recent)
 
+_Climate Resilience_
 - **Najibi et al. (2024).** A Statewide, Weather-Regime Based Stochastic Weather Generator for Process-Based Bottom-Up Climate Risk Assessments in California – Part I: Model Evaluation. *Climate Services* ([DOI link](https://doi.org/10.1016/j.cliser.2024.100489))
 - **Najibi et al. (2024).** A statewide, weather-regime based stochastic weather generator for process-based bottom-up climate risk assessments in California – Part II: Thermodynamic and Dynamic Climate Change Scenarios. *Climate Services* ([DOI link](https://doi.org/10.1016/j.cliser.2024.100485))
+
+_Climate Impacts_
 - **Najibi and Steinschneider (2023).** Extreme Precipitation‐Temperature Scaling in California: The Role of Atmospheric Rivers. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL104606))
-- **Najibi, Devineni, and Lall (2023).** Compound Continental Risk of Multiple Extreme Floods in the United States. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL105297))
 - **Najibi and Devineni (2023).** Scaling of Floods With Geomorphologic Characteristics and Precipitation Variability Across the Conterminous United States. *Water Resources Research* ([DOI link](https://doi.org/10.1029/2022WR032815))
+
+_Compound Climate Extremes_
+- **Najibi, Devineni, and Lall (2023).** Compound Continental Risk of Multiple Extreme Floods in the United States. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL105297))
+
 
 *For the full list of publications, please refer to our Google Scholar profiles!*
