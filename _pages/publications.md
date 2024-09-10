@@ -11,7 +11,7 @@ Please visit our Google Scholar profiles (i.e., PI and group members) to see wha
 
 _Climate Resilience_
 - **Najibi et al. (2024).** A Statewide, Weather-Regime Based Stochastic Weather Generator for Process-Based Bottom-Up Climate Risk Assessments in California – Part I: Model Evaluation. *Climate Services* ([DOI link](https://doi.org/10.1016/j.cliser.2024.100489){:target="_blank"})
-- **Najibi et al. (2024).** A statewide, weather-regime based stochastic weather generator for process-based bottom-up climate risk assessments in California – Part II: Thermodynamic and Dynamic Climate Change Scenarios. *Climate Services* ([DOI link](https://doi.org/10.1016/j.cliser.2024.100485){:target="_blank"})
+- **Najibi et al. (2024).** A Statewide, Weather-Regime Based Stochastic Weather Generator for Process-Based Bottom-Up Climate Risk Assessments in California – Part II: Thermodynamic and Dynamic Climate Change Scenarios. *Climate Services* ([DOI link](https://doi.org/10.1016/j.cliser.2024.100485){:target="_blank"})
 
 _Climate Change Impacts_
 - **Najibi and Steinschneider (2023).** Extreme Precipitation‐Temperature Scaling in California: The Role of Atmospheric Rivers. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL104606){:target="_blank"})
