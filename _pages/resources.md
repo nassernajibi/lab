@@ -10,12 +10,12 @@ Explore our software, tools, and developed datasets available for download and r
 ### Featured Tools/Datasets
 
 *GitHub*
-- **[Stochastic Weather Generator v2.0](https://github.com/nassernajibi/WGEN-v2.0)**
+- **[Stochastic Weather Generator v2.0](https://github.com/nassernajibi/WGEN-v2.0){:target="_blank"}**
 
 *Harvard Dataverse*
-- **[Global Floods](https://dataverse.harvard.edu/dataverse/dfo1985to2015)**
-- **[Floods in the Missouri River Basin (United States)](https://dataverse.harvard.edu/dataverse/MRB)**
-- **[Hierarchical Bayesian Regression Frameworks](https://dataverse.harvard.edu/dataverse/bayesian)**
+- **[Global Floods](https://dataverse.harvard.edu/dataverse/dfo1985to2015){:target="_blank"}**
+- **[Floods in the Missouri River Basin (United States)](https://dataverse.harvard.edu/dataverse/MRB){:target="_blank"}**
+- **[Hierarchical Bayesian Regression Frameworks](https://dataverse.harvard.edu/dataverse/bayesian){:target="_blank"}**
 
 
 *For more details and access to all our software and datasets, visit the respective links above.*
