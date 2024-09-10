@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome to Climate Resilience Lab!"
 author_profile: true
 redirect_from: 
   - /about/
