@@ -20,4 +20,4 @@ Postdoctoral Researchers: We invite applications from recent Ph.D. graduates int
 
 Self-Sponsored Opportunities: We always welcome self-sponsored candidates and those with external fellowships or grants. We encourage interested individuals to reach out and discuss potential opportunities to join our group.
 
-If you are interested in any of the above opportunities or would like more information, please contact me with your CV and a brief description of your research interests. I'm always unterested in hearing from you.
+If you are interested in any of the above opportunities or would like more information, please contact me with your CV and a brief description of your research interests.
