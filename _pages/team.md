@@ -7,7 +7,7 @@ author_profile: true  # Optional, depending on your theme
 
 ### Nasser Najibi, Principal Investigator
 - Assistant Professor (Jan 2025- )
-- **Research Interests:** climate risk, system resilience, hydroclimate extremes, climate change impacts, stochastic/xAI methods, remote sensing and GeoAI
+- **Research Interests:** climate risk, system resilience, hydroclimate extremes, climate change impacts, remote sensing, and stochastic/xAI/GeoAI methods
 - **Experience:** Research/Postdoctoral Associate (Cornell Unversity); Postdoctoral Fellow (ORISE/USACE Engineer Research and Development Center); Ph.D. (City University of New York); M.Phil. (City University of New York); M.Sc. (University of Chinese Academy of Sciences); B.Sc. (University of Tehran).
 - **Email:** nn289 <@> cornell {.} edu
 - [Homepage](http://www.nassernajibi.com){:target="_blank"} [Google Scholar](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en){:target="_blank"} [LinkedIn](https://www.linkedin.com/in/nassernajibi/){:target="_blank"}
