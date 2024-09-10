@@ -12,7 +12,7 @@ title                    : "Najibi Research Group"
 title_separator          : "-"
 name                     : &name "Nasser Najibi"
 description              : &description "Climate Resilience"
-url                      : https://nassernajibi.github.io/lab/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nassernajibi.github.io/lab/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nassernajibi.github.io/lab/"
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nassernajibi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
