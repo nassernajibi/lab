@@ -16,7 +16,7 @@ _Climate Resilience_
 _Climate Change Impacts_
 - **Najibi and Steinschneider (2023).** Extreme Precipitation‐Temperature Scaling in California: The Role of Atmospheric Rivers. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL104606))
 - **Najibi and Devineni (2023).** Scaling of Floods With Geomorphologic Characteristics and Precipitation Variability Across the Conterminous United States. *Water Resources Research* ([DOI link](https://doi.org/10.1029/2022WR032815))
-- **Najibi, Mukhopadhyay, and Steinschneider (2022).** Precipitation Scaling with Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity. *Geophysical Research Letters* ([DOI link](Precipitation Scaling with Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity))
+- **Najibi, Mukhopadhyay, and Steinschneider (2022).** Precipitation Scaling with Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2021GL097100))
 
 _Compound Climate Extremes_
 - **Najibi, Devineni, and Lall (2023).** Compound Continental Risk of Multiple Extreme Floods in the United States. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL105297))
