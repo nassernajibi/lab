@@ -5,6 +5,7 @@ permalink: /team/
 author_profile: true  # Optional, depending on your theme
 ---
 
+<img src="images/nassernajibi_photo.jpeg" alt="Graphical Abstract" width="50%" />
 ### Nasser Najibi, Principal Investigator
 - Assistant Professor (Jan 2025- )
 - **Research Interests:** climate risk, system resilience, hydroclimate extremes, climate change impacts, remote sensing, and stochastic/xAI/GeoAI methods
