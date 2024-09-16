@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true  # Optional, depending on your theme
 ---
 
-<img src="https://raw.githubusercontent.com/nassernajibi/lab/master/images/nassernajibi_photo.png" width="10%" alt="Nasser photo" />
+<img src="https://raw.githubusercontent.com/nassernajibi/lab/master/images/nassernajibi_photo.png" width="15%" alt="Nasser photo" />
 ### Nasser Najibi, Principal Investigator
 - Assistant Professor (Jan 2025- )
 - **Research Interests:** climate risk, system resilience, hydroclimate extremes, climate change impacts, remote sensing, and stochastic/xAI/GeoAI methods
