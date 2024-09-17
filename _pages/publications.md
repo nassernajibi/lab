@@ -19,7 +19,7 @@ _Climate Change Impacts_
 - **Najibi et al. (2022).** Precipitation Scaling with Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2021GL097100){:target="_blank"})
 
 _Compound Extremes_
-- **Najibi, Devineni, and Lall (2023).** Compound Continental Risk of Multiple Extreme Floods in the United States. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL105297){:target="_blank"})
+- **Najibi et al. (2023).** Compound Continental Risk of Multiple Extreme Floods in the United States. *Geophysical Research Letters* ([DOI link](https://doi.org/10.1029/2023GL105297){:target="_blank"})
 - **Najibi et al. (2020).** Understanding the Spatial Organization of Simultaneous Heavy Precipitation Events over the Conterminous United States. *Journal of Geophysical Research: Atmospheres* ([DOI link](https://doi.org/10.1029/2020JD033036){:target="_blank"})
 - **Najibi et al. (2019).** Coupled Flow Accumulation and Atmospheric Blocking Govern Flood Duration. *npj Climate and Atmospheric Science* ([DOI link](https://doi.org/10.1038/s41612-019-0076-6){:target="_blank"})
 
