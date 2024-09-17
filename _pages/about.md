@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-We work on enhancing climate risk assessments and infrastructure resilience in built and environmental systems.<br/>
-Dr. Najibi's research group focuses on understanding multisector, deeply uncertain, and dynamic climate risks to enhance resilience and adaptation to multi-hazards evolving with the changing environment.<br/>
-Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events to enhancing system resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
+We work on enhancing climate risk assessments and disaster resilience in built and environmental systems.<br/>
+Dr. Najibi's research group focuses on understanding multisector, deeply uncertain, and dynamic climate risks to enhance system resilience and adaptation to multi-hazards evolving with the changing environment.<br/>
+Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events to enhancing climate resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
 
 <img src="images/lab_graphical_abstract_2.png" alt="Graphical Abstract" width="50%" />
 
-The ultimate goal is to provide knowledge that can address the pressing challenges posed by multisector evolving risks and to create more resilient communities and sustainable interconnected systems (built, natural, and human) to withstand and/or adapt to the multifaceted impacts of a rapidly changing climate and environment in different scales.
+The ultimate goal is to provide knowledge and tools that can address the pressing challenges posed by multisector evolving risks and to create more resilient communities and sustainable interconnected systems (built, natural, and human) to withstand and/or adapt to the multifaceted impacts of a rapidly changing climate and environment in different scales.
 
 What we do
 ======
 Our focus is on improving traditional perspectives centered on multi-scale hydroclimate systems analysis under three synergistic core areas:<br/>
 1) Understanding the climate risks associated with natural and built environments exposed to hydroclimate extremes (e.g., floods, droughts, extreme precipitation events, heat/coldwaves)<br/>
-2) Adapting stochastic decision models to enhance climate resilience in infrastructure systems and ecosystems in response to hydroclimate variability and climate change impacts<br/>
-3) Integrating process-based insights with ensemble-based frameworks to assess the climate vulnerability of infrastructure systems and the public well-being.<br/>
+2) Adapting stochastic models and decision analystics to enhance climate resilience in infrastructure systems and ecosystems in response to hydroclimate variability and climate change impacts<br/>
+3) Integrating process-based insights with ensemble-based frameworks to assess the climate vulnerability of critical infrastructure sectors (e.g., water/wastewater, food/agriculture, transportation, dams, energy, emergency services, healthcare/public health) and the public well-being.<br/>
 
 Why we do
 ======
