@@ -24,7 +24,7 @@ _Compound Extremes_
 - **Najibi et al. (2019).** Coupled Flow Accumulation and Atmospheric Blocking Govern Flood Duration. *npj Climate and Atmospheric Science* ([DOI link](https://doi.org/10.1038/s41612-019-0076-6){:target="_blank"})
 
 _Hydrological Remote Sensing_
-- **Najibi and Jin (2013).**  Physical Reflectivity and Polarization Characteristics for Snow and Ice-Covered Surfaces Interacting with GPS Signals. *Remote Sensing* ([DOI link](https://doi.org/10.3390/rs5084006){:target="_blank"})
 - **Najibi et al. (2015).** Validating the Variability of Snow Accumulation and Melting From GPS-Reflected Signals: Forward Modeling. *IEEE Transactions on Antennas and Propagation* ([DOI link](https://doi.org/10.1109/TAP.2015.2414950){:target="_blank"})
+- **Najibi and Jin (2013).**  Physical Reflectivity and Polarization Characteristics for Snow and Ice-Covered Surfaces Interacting with GPS Signals. *Remote Sensing* ([DOI link](https://doi.org/10.3390/rs5084006){:target="_blank"})
 
 *For the full list of publications, please refer to our Google Scholar profiles!*
