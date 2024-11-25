@@ -19,3 +19,5 @@ Explore our software, tools, and developed datasets available for download and r
 
 
 *For more details and access to all our software and datasets, visit the respective links above.*
+
+Note that with [UF’s artificial intelligence initiative and our high-performance computing partnership with NVIDIA](https://www.rc.ufl.edu/about/hipergator/){:target="_blank"}, UF is an ideal place for anyone wishing to conduct research involving high-performance computing, big data, and AI/ML model evelopments.
