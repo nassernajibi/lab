@@ -35,12 +35,11 @@ Address: Frazier-Rogers Hall, 1741 Museum Rd, Gainesville, FL 32603
 
 <img src="images/University-of-Florida-Logo.png" alt="Graphical Abstract" width="70%" />
 
-More about Gainesville, FL:
-
-Gainesville is a vibrant city located just an hour and a half from the beautiful Florida coast. Known for its lively college town atmosphere, Gainesville offers a diverse range of activities for all ages.
-
-Sports enthusiasts can catch a thrilling football game at UF, while music lovers can enjoy the city's thriving music scene, featuring a variety of genres from rock to indie. Gainesville's vibrant nightlife offers a range of options, from lively bars and clubs to cozy coffee shops and restaurants.
-
-For those seeking outdoor adventures, Gainesville is a nature lover's paradise! The area boasts stunning natural springs, perfect for swimming, snorkeling, and kayaking. Visitors can also explore the nearby Paynes Prairie Preserve State Park, where they can encounter a variety of wildlife, including alligators, birds, and manatees.
-
-Whether you're looking for excitement, relaxation, or a bit of both, Gainesville has something to offer!
+<small>
+More about Gainesville, FL:<br/>
+Gainesville is a vibrant city located just an hour and a half from the beautiful Florida coast. Known for its lively college town atmosphere, Gainesville offers a diverse range of activities for all ages.<br/>
+Sports enthusiasts can catch a thrilling football game at UF, while music lovers can enjoy the city's thriving music scene, featuring a variety of genres from rock to indie. Gainesville's vibrant nightlife offers a range of options, from lively bars and clubs to cozy coffee shops and restaurants.<br/>
+For those seeking outdoor adventures, Gainesville is a nature lover's paradise! The area boasts stunning natural springs, perfect for swimming, snorkeling, and kayaking. Visitors can also explore the nearby Paynes Prairie Preserve State Park, where they can encounter a variety of wildlife, including alligators, birds, and manatees.<br/>
+Whether you're looking for excitement, relaxation, or a bit of both, Gainesville has something to offer!<br/>
+</small>
+<img src="images/UF-bricks - 02.jpg" alt="Graphical Abstract" width="70%" />
