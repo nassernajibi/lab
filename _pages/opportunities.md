@@ -9,7 +9,7 @@ author_profile: true  # Optional, adjust based on your theme
 
 We are always looking for talented and motivated individuals to join our research group. Below are the current opportunities available for Ph.D., M.Sc., Undergraduate students, Postdoctoral Researchers, Internships, and Visiting Scholars.
 
-### Ph.D./M.Sc. Opportunities (Fall 2025)
+### [Ph.D./M.Sc. Opportunities (Fall 2025)](https://drive.google.com/file/d/1ZKu8mDMYakntVx36qH_mjl2Qb0LViJrv/view){:target="_blank"}
 We welcome applications from students interested in pursuing a graduate degree in areas related to climate risk, disaster resilience, extreme weather events, hydroclimatology, water resources, remote sensing, and data-driven models. Our group offers a collaborative environment with access to cutting-edge research and facilities. To apply, first please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4X1d9kJS6Xur53ztIVc2Pre48Yx3DnqO33hiNtdAeFMS6kA/viewform?usp=pp_url){:target="_blank"}. I'll do my best to get back to you as soon as possible. These positions are open until filled.
 
 ### Other Research Experience
