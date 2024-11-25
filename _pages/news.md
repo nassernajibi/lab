@@ -8,3 +8,4 @@ author_profile: true  # Optional, depending on your theme
 ## Latest News
 
 - **January 1, 2025:** Najibi Research Group at UF is online!
+<img src="images/UF-bricks - 02.jpg" alt="Graphical Abstract" width="50%" />

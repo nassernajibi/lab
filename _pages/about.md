@@ -42,4 +42,3 @@ Sports enthusiasts can catch a thrilling football game at UF, while music lovers
 For those seeking outdoor adventures, Gainesville is a nature lover's paradise! The area boasts stunning natural springs, perfect for swimming, snorkeling, and kayaking. Visitors can also explore the nearby Paynes Prairie Preserve State Park, where they can encounter a variety of wildlife, including alligators, birds, and manatees.<br/>
 Whether you're looking for excitement, relaxation, or a bit of both, Gainesville has something to offer!<br/>
 </small>
-<img src="images/UF-bricks - 02.jpg" alt="Graphical Abstract" width="70%" />
