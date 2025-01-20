@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 We work on enhancing climate risk assessments and disaster resilience in built and environmental systems.<br/>
-Dr. Najibi's research group focuses on understanding multisector, deeply uncertain, and dynamic climate risks to enhance system resilience and adaptation to multi-hazards evolving with the changing environment.<br/>
-Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events to enhancing climate resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
+Dr. Najibi's Research Group focuses on understanding multisector, deeply uncertain, and dynamic climate risks to enhance system resilience and adaptation to multi-hazards evolving with the changing environment.<br/>
+Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events (e.g., floods, droughts, rainstorms, heat waves) to enhancing climate resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
 
 <img src="images/lab_graphical_abstract_2.png" alt="Graphical Abstract" width="50%" />
 
-The ultimate goal is to provide knowledge and tools that can address the pressing challenges posed by multisector evolving risks and to create more resilient communities and sustainable interconnected systems (built, natural, and human) to withstand and/or adapt to the multifaceted impacts of a rapidly changing climate and environment in different scales.
+The ultimate goal of our Lab is to develop knowledge and tools to address the pressing challenges of evolving risks and foster more resilient communities and sustainable interconnected systems (built, natural, and human) capable of withstanding and adapting to the multifaceted impacts of a rapidly changing climate and environment across different scales.
 
 What we do
 ======
@@ -31,6 +31,7 @@ Moreover, infrastructure systems are highly vulnerable to natural climate variab
 Where we are
 ======
 We are in the Department of Agricultural and Biological Engineering ([ABE](https://abe.ufl.edu/){:target="_blank"}), and affiliated with the Center for Land Use Efficiency ([CLUE](https://clue.ifas.ufl.edu/){:target="_blank"}) within the Institute of Food and Agricultural Sciences ([IFAS](https://ifas.ufl.edu/){:target="_blank"}) at the University of Florida ([UF](https://www.ufl.edu/){:target="_blank"}). <br/>
-Address: Frazier-Rogers Hall, 1741 Museum Rd, Gainesville, FL 32603
+Address: 261 Frazier-Rogers Hall, 1741 Museum Rd, Gainesville, FL 32601
+Phone: 352-294-6739
 
 <img src="images/University-of-Florida-Logo.png" alt="Graphical Abstract" width="70%" />
