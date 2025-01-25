@@ -14,7 +14,7 @@ title                    : "Najibi Research Group"
 title_separator          : "-"
 name                     : &name "Nasser Najibi"
 description              : &description "Climate Resilience"
-url                      : https://nassernajibi.github.io/lab/
+url                      : https://nassernajibi.github.io/lab
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nassernajibi.github.io/lab/"
 
