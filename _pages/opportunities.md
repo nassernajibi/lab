@@ -7,7 +7,17 @@ author_profile: true  # Optional, adjust based on your theme
 
 ## Multiple Open Positions
 
-We are always looking for talented and motivated individuals to join our research group. Below are the current opportunities available for Ph.D., M.Sc., Undergraduate students, Postdoctoral Researchers, Internships, and Visiting Scholars.
+We are always looking for talented and motivated individuals to join our research group. Before applying, I strongly encourage you to review our ***Core Values***, and only apply if you genuinely align with and are excited to contribute to them.
+
+## Core Values ##
+**1. Openness and Belonging:** We value transparency and accessibility. We share our work (i.e., workflow, code, I/O data, notebooks, tutorials) openly. We strive to communicate clearly, make our research accessible to various audiences, and create a lab environment where everyone feels welcome, supported, and able to be themselves.
+
+**2. Intellectual Curiosity and Impact:** We are driven by curiosity and a desire to address real-world challenges. We embrace bold ideas, creative thinking, and open dialogue. Our work aims to make meaningful contributions beyond academia through transdisciplinary collaboration.
+
+**3. Balance and Excellence:** We pursue excellence with care and rigor while respecting work-life boundaries. We support one another in maintaining a healthy balance and commit to doing things right, with intention, clarity, and polish.
+
+
+Below are the current opportunities available for Ph.D., M.Sc., Undergraduate students, Postdoctoral Researchers, Internships, and Visiting Scholars.
 
 ### [Ph.D./M.Sc. Opportunities (Fall 2025)](https://drive.google.com/file/d/1ZKu8mDMYakntVx36qH_mjl2Qb0LViJrv/view){:target="_blank"}
 We welcome applications from students interested in pursuing a graduate degree in areas related to climate risk, disaster resilience, extreme weather events, hydroclimatology, water resources, remote sensing, and data-driven models. Our group offers a collaborative environment with access to cutting-edge research and facilities. To apply, first please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4X1d9kJS6Xur53ztIVc2Pre48Yx3DnqO33hiNtdAeFMS6kA/viewform?usp=pp_url){:target="_blank"}. I'll do my best to get back to you as soon as possible. These positions are open until filled.
