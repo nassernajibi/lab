@@ -7,7 +7,8 @@ author_profile: true  # Optional, adjust based on your theme
 
 ## Multiple Open Positions
 
-We are always looking for talented and motivated individuals to join our research group. Before applying, I strongly encourage you to review our ***Core Values***, and only apply if you genuinely align with and are excited to contribute to them.
+We are always looking for talented and motivated individuals to join our research group.<br/>
+Before applying, I strongly encourage you to review our ***Core Values***, and only apply if you genuinely align with and are excited to contribute to them.
 
 ## Core Values ##
 **1. Openness and Belonging:** We value transparency and accessibility. We share our work (i.e., workflow, code, I/O data, notebooks, tutorials) openly. We strive to communicate clearly, make our research accessible to various audiences, and create a lab environment where everyone feels welcome, supported, and able to be themselves.<br/>
