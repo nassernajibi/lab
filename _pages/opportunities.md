@@ -7,13 +7,13 @@ author_profile: true  # Optional, adjust based on your theme
 
 ## Multiple Open Positions
 
-We are always looking for talented and motivated individuals to join our research group!<br/>
+We are always looking for talented and motivated individuals to join our research group! <br/>
 Before applying, I strongly encourage you to review our ***Core Values***, and only apply if you genuinely align with and are excited to contribute to them.
 
 ## Core Values ##
-**1. Openness and Belonging:** We value transparency and accessibility. We share our work (i.e., workflow, code, I/O data, notebooks, tutorials) openly. We strive to communicate clearly, make our research accessible to various audiences, and create a lab environment where everyone feels welcome, supported, and able to be themselves.<br/>
-**2. Intellectual Curiosity and Impact:** We are driven by curiosity and a desire to address real-world challenges. We embrace bold ideas, creative thinking, and open dialogue. Our work aims to make meaningful contributions beyond academia through transdisciplinary collaboration.<br/>
-**3. Balance and Excellence:** We pursue excellence with care and rigor while respecting work-life boundaries. We support one another in maintaining a healthy balance and commit to doing things right, with intention, clarity, and polish.<br/>
+**1. Openness and Belonging:** We value transparency and accessibility. We share our work (i.e., workflow, code, I/O data, notebooks, tutorials) openly. We strive to communicate clearly, make our research accessible to various audiences, and create a lab environment where everyone feels welcome, supported, and able to be themselves. <br/>
+**2. Intellectual Curiosity and Impact:** We are driven by curiosity and a desire to address real-world challenges. We embrace bold ideas, creative thinking, and open dialogue. Our work aims to make meaningful contributions beyond academia through transdisciplinary collaboration. <br/>
+**3. Balance and Excellence:** We pursue excellence with care and rigor while respecting work-life boundaries. We support one another in maintaining a healthy balance and commit to doing things right, with intention, clarity, and polish. <br/>
 
 Below are the current opportunities available for Ph.D., M.Sc., Undergraduate students, Postdoctoral Researchers, Internships, and Visiting Scholars.
 
