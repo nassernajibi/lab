@@ -7,7 +7,7 @@ author_profile: true  # Optional, adjust based on your theme
 
 ## Multiple Open Positions
 
-We are always looking for talented and motivated individuals to join our research group.<br/>
+We are always looking for talented and motivated individuals to join our research group!<br/>
 Before applying, I strongly encourage you to review our ***Core Values***, and only apply if you genuinely align with and are excited to contribute to them.
 
 ## Core Values ##
