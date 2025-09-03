@@ -20,12 +20,36 @@ B.Sc. (University of Tehran)<br/>
 - [IFAS-ABE](https://abe.ufl.edu/people/faculty/nasser-najibi/){:target="_blank"} [IFAS-CLUE](https://clue.ifas.ufl.edu/faculty/nasser-najibi/){:target="_blank"} [Homepage](http://www.nassernajibi.com){:target="_blank"} [LinkedIn](https://www.linkedin.com/in/nassernajibi/){:target="_blank"} 
 
 ## Current Members
+<div style="display: flex; align-items: center; gap: 20px;">
 
-### First Name, Last Name
-- Graduate Student (see [Opportunities](https://nassernajibi.github.io/lab/opportunities/){:target="_blank"} tab)
-- **Research Interests:** expertise 1, expertise 2.
-- **Email:**
-- Web
+  <!-- Left column: text -->
+  <div style="flex: 1; max-width: 70%; text-align: left;">
+    <h3>Matt Hatami</h3>
+    <ul>
+      <li>PhD Student</li>
+      <li>MSc in Civil Engineering for Risk Mitigation – Polytechnic University of Milan</li>
+      <li>BSc in Civil Engineering – Imam Khomeini International University</li>
+      <li><strong>Research Interests:</strong> Extreme Precipitation, Precipitation–Temperature Scaling, Bayesian Inference, MCMC Methods</li>
+      <li><strong>Email:</strong> 
+        <a href="mailto:mhatamigoloujeh@ufl.edu">mhatamigoloujeh@ufl.edu</a> | 
+        <a href="mailto:HatamiMatt@gmail.com">HatamiMatt@gmail.com</a>
+      </li>
+      <li><strong>Web:</strong> 
+        <a href="https://hatamimatt.github.io" target="_blank">Homepage</a> | 
+        <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a> | 
+        <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">Google Scholar</a> | 
+        <a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Right column: image -->
+  <div style="flex: 1; max-width: 30%; text-align: center;">
+    <img src="/images/matt.jpg" alt="Matt Hatami" style="width: 90%; border-radius: 8px;" />
+  </div>
+
+</div>
+
 
 ### First Name, Last Name
 - Undergraduate Student (see [Opportunities](https://nassernajibi.github.io/lab/opportunities/){:target="_blank"} tab)
