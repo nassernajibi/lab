@@ -41,11 +41,6 @@ B.Sc. (University of Tehran)<br/>
     </ul>
   </div>
 
-  <!-- Right column: image -->
-  <div style="flex: 1; max-width: 30%; text-align: center;">
-    <img src="/images/matt.jpg" alt="Matt Hatami" style="width: 90%; border-radius: 8px;" />
-  </div>
-
 </div>
 
 
