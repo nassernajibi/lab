@@ -26,7 +26,7 @@ B.Sc. (University of Tehran)<br/>
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Mehdi "Matt" Hatami Goloujeh</h3>
     <ul>
-      <li>Ph.D. Student (2025/08 - )</li>
+      <li>Ph.D. Student (University of Florida) (2025/08 - )</li>
       <li>M.Sc. (Polytechnic University of Milan)</li>
       <li>B.Sc. (IK International University)</li>
       <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
@@ -35,7 +35,7 @@ B.Sc. (University of Tehran)<br/>
       <li><strong>Web:</strong> 
         <a href="https://hatamimatt.github.io" target="_blank">Homepage</a> | 
         <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a> | 
-        <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">Google Scholar</a> | 
+        <a href="https://scholar.google.com/citations?user=N0m5rRUAAAAJ&hl" target="_blank">Google Scholar</a> | 
         <a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
       </li>
     </ul>
