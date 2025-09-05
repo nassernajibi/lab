@@ -24,7 +24,7 @@ B.Sc. (University of Tehran)<br/>
 
   <!-- Left column: text -->
   <div style="flex: 1; max-width: 70%; text-align: left;">
-    <h3>Matt Hatami</h3>
+    <h3>Mehdi "Matt" Hatami Goloujeh</h3>
     <ul>
       <li>Ph.D. Student (2025/08 - )</li>
       <li>M.Sc. (Polytechnic University of Milan)</li>
