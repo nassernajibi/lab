@@ -33,9 +33,9 @@ B.Sc. (University of Tehran)<br/>
       <li><strong>Email:</strong> 
         mhatamigoloujeh <@> ufl {.} edu</li>
       <li><strong>Web:</strong> 
-        <a href="https://hatamimatt.github.io" target="_blank">Homepage</a> | 
-        <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a> | 
-        <a href="https://scholar.google.com/citations?user=N0m5rRUAAAAJ&hl" target="_blank">Google Scholar</a> | 
+        <a href="https://hatamimatt.github.io" target="_blank">Homepage</a>  
+        <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a>  
+        <a href="https://scholar.google.com/citations?user=N0m5rRUAAAAJ&hl" target="_blank">Google Scholar</a>  
         <a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
       </li>
     </ul>
