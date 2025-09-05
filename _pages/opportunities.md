@@ -17,7 +17,7 @@ Before applying, I strongly encourage you to review our ***Core Values***, and o
 
 Below are the current opportunities available for Ph.D., M.Sc., Undergraduate students, Postdoctoral Researchers, Internships, and Visiting Scholars.
 
-### [Ph.D. Opportunities](https://drive.google.com/file/d/1jRBld1JBRrgoV9DvKS-ZN5dhlJHChupg/view){:target="_blank"}
+### [Ph.D. Opportunities](https://drive.google.com/file/d/1WinMXlcxX5f2MB7Yf_oTxaMDoy0JqcdN/view){:target="_blank"}
 We welcome applications from students interested in pursuing a graduate degree in areas related to climate risk, disaster resilience, extreme weather events, hydroclimatology, water resources, remote sensing, and data-driven models. Our group offers a collaborative environment with access to cutting-edge research and facilities. These positions are open until filled.
 
 ### Other Research Experience
