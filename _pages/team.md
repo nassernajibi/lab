@@ -26,10 +26,10 @@ B.Sc. (University of Tehran)<br/>
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Matt Hatami</h3>
     <ul>
-      <li>PhD Student</li>
-      <li>MSc in Civil Engineering for Risk Mitigation – Polytechnic University of Milan</li>
-      <li>BSc in Civil Engineering – Imam Khomeini International University</li>
-      <li><strong>Research Interests:</strong> Extreme Precipitation, Precipitation–Temperature Scaling, Bayesian Inference, MCMC Methods</li>
+      <li>Ph.D. Student (2025/08 - )</li>
+      <li>M.Sc. (Polytechnic University of Milan)</li>
+      <li>B.Sc. (IK International University)</li>
+      <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
       <li><strong>Email:</strong> 
         <a href="mailto:mhatamigoloujeh@ufl.edu">mhatamigoloujeh@ufl.edu</a> | 
         <a href="mailto:HatamiMatt@gmail.com">HatamiMatt@gmail.com</a>
