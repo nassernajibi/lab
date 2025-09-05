@@ -31,9 +31,7 @@ B.Sc. (University of Tehran)<br/>
       <li>B.Sc. (IK International University)</li>
       <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
       <li><strong>Email:</strong> 
-        <a href="mailto:mhatamigoloujeh@ufl.edu">mhatamigoloujeh@ufl.edu</a> | 
-        <a href="mailto:HatamiMatt@gmail.com">HatamiMatt@gmail.com</a>
-      </li>
+        mhatamigoloujeh <@> ufl {.} edu</li>
       <li><strong>Web:</strong> 
         <a href="https://hatamimatt.github.io" target="_blank">Homepage</a> | 
         <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a> | 
