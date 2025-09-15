@@ -21,7 +21,24 @@ B.Sc. (University of Tehran)<br/>
 
 ## Current Members
 <div style="display: flex; align-items: center; gap: 20px;">
-
+  <!-- Left column: text -->
+  <div style="flex: 1; max-width: 70%; text-align: left;">
+    <h3>Fawaz A T A Bouhamad</h3>
+    <ul>
+      <li>M.Sc. Student (University of Florida) (2025/08 - )</li>
+      <li>M.Sc. (University of Manchester)</li>
+      <li>B.Sc. (University of Bristol)</li>
+      <li><strong>Research Interests:</strong> compound heatwaves and multi-sector impacts </li>
+      <li><strong>Email:</strong> 
+        fawazbouhamad <@> ufl {.} edu</li>
+      <li><strong>Web:</strong> 
+        <a href="https://github.com/fawazbouhamad" target="_blank">GitHub</a>  
+        <a href="https://www.linkedin.com/in/fawazbouhamad/" target="_blank">LinkedIn</a>  
+        <a href="https://orcid.org/0009-0009-4138-6126" target="_blank">ORCiD</a>
+      </li>
+    </ul>
+  </div>
+  
   <!-- Left column: text -->
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Mehdi "Matt" Hatami Goloujeh</h3>
@@ -32,15 +49,16 @@ B.Sc. (University of Tehran)<br/>
       <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
       <li><strong>Email:</strong> 
         mhatamigoloujeh <@> ufl {.} edu</li>
-      <li><strong>Web:</strong> 
-        <a href="https://hatamimatt.github.io" target="_blank">Homepage</a>  
-        <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a>  
-        <a href="https://scholar.google.com/citations?user=N0m5rRUAAAAJ&hl" target="_blank">Google Scholar</a>  
+      <li><strong>Web:</strong>
         <a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a>
+        <a href="https://hatamimatt.github.io" target="_blank">Homepage</a>  		
+        <a href="https://scholar.google.com/citations?user=N0m5rRUAAAAJ&hl" target="_blank">Google Scholar</a>  
       </li>
     </ul>
   </div>
 
+  
 </div>
 
 
