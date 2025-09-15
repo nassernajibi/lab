@@ -25,7 +25,7 @@ B.Sc. (University of Tehran)<br/>
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Fawaz A T A Bouhamad</h3>
     <ul>
-      <li>M.Sc. Student (University of Florida) (2025/08 - )</li>
+      M.Sc. Student (University of Florida) (2025/08 - )
       <li>M.Sc. (University of Manchester)</li>
       <li>B.Sc. (University of Bristol)</li>
       <li><strong>Research Interests:</strong> compound heatwaves and multi-sector impacts </li>
