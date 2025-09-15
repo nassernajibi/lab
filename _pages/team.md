@@ -31,7 +31,6 @@ B.Sc. (University of Tehran)<br/>
       <li><strong>Research Interests:</strong> compound heatwaves and multi-sector impacts </li>
       <li><strong>Email:</strong> 
         fawazbouhamad <@> ufl {.} edu</li>
-      <li><strong>Web:</strong> 
         <a href="https://github.com/fawazbouhamad" target="_blank">GitHub</a>  
         <a href="https://www.linkedin.com/in/fawazbouhamad/" target="_blank">LinkedIn</a>  
         <a href="https://orcid.org/0009-0009-4138-6126" target="_blank">ORCiD</a>
@@ -49,7 +48,6 @@ B.Sc. (University of Tehran)<br/>
       <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
       <li><strong>Email:</strong> 
         mhatamigoloujeh <@> ufl {.} edu</li>
-      <li><strong>Web:</strong>
         <a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
         <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a>
         <a href="https://hatamimatt.github.io" target="_blank">Homepage</a>  		
