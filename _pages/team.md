@@ -25,9 +25,9 @@ B.Sc. (University of Tehran)<br/>
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Fawaz A T A Bouhamad</h3>
     <ul>
-      M.Sc. Student (University of Florida) (2025/08 - )
-      M.Sc. (University of Manchester)
-      B.Sc. (University of Bristol)
+      M.Sc. Student (University of Florida) (2025/08 - )<br/>
+      M.Sc. (University of Manchester)<br/>
+      B.Sc. (University of Bristol)<br/>
       <li><strong>Research Interests:</strong> compound heatwaves and multi-sector impacts </li>
       <li><strong>Email:</strong> 
         fawazbouhamad <@> ufl {.} edu</li>
@@ -42,9 +42,9 @@ B.Sc. (University of Tehran)<br/>
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Mehdi "Matt" Hatami Goloujeh</h3>
     <ul>
-      Ph.D. Student (University of Florida) (2025/08 - )
-      M.Sc. (Polytechnic University of Milan)
-      B.Sc. (IK International University)
+      Ph.D. Student (University of Florida) (2025/08 - )<br/>
+      M.Sc. (Polytechnic University of Milan)<br/>
+      B.Sc. (IK International University)<br/>
       <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
       <li><strong>Email:</strong> 
         mhatamigoloujeh <@> ufl {.} edu</li>
