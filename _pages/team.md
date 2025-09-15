@@ -7,7 +7,7 @@ author_profile: true  # Optional, depending on your theme
 
 <img src="https://raw.githubusercontent.com/nassernajibi/lab/master/images/nassernajibi_photo.png" width="15%" alt="Nasser photo" />
 ### Nasser Najibi, Principal Investigator
-- Assistant Professor (Tenure-Track, Jan 2025- )
+- Assistant Professor (Tenure-Track, 2025/01 - )
 - **Research Interests:** climate risk, system resilience, hydroclimate extremes, water resources, climate impacts, remote sensing applications, data-driven models (e.g., stochastic, xAI, SciML, GeoAI)<br/>
 Research Associate (Cornell University)<br/>
 ORISE Postdoctoral Fellow (URAU/USACE Engineer Research and Development Center)<br/>
@@ -26,8 +26,8 @@ B.Sc. (University of Tehran)<br/>
     <h3>Fawaz A T A Bouhamad</h3>
     <ul>
       M.Sc. Student (University of Florida) (2025/08 - )
-      <li>M.Sc. (University of Manchester)</li>
-      <li>B.Sc. (University of Bristol)</li>
+      M.Sc. (University of Manchester)
+      B.Sc. (University of Bristol)
       <li><strong>Research Interests:</strong> compound heatwaves and multi-sector impacts </li>
       <li><strong>Email:</strong> 
         fawazbouhamad <@> ufl {.} edu</li>
@@ -42,9 +42,9 @@ B.Sc. (University of Tehran)<br/>
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Mehdi "Matt" Hatami Goloujeh</h3>
     <ul>
-      <li>Ph.D. Student (University of Florida) (2025/08 - )</li>
-      <li>M.Sc. (Polytechnic University of Milan)</li>
-      <li>B.Sc. (IK International University)</li>
+      Ph.D. Student (University of Florida) (2025/08 - )
+      M.Sc. (Polytechnic University of Milan)
+      B.Sc. (IK International University)
       <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
       <li><strong>Email:</strong> 
         mhatamigoloujeh <@> ufl {.} edu</li>
