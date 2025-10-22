@@ -7,8 +7,8 @@ author_profile: true  # Optional, adjust based on your theme
 
 Our extension work focuses on addressing critical challenges in water supply, stormwater systems, and risk management frameworks through innovative tools and data-driven approaches across the state of Florida.
 
-### 1) Water Supply Systems Risk
-Population growth and changes in water supply patterns across Florida (e.g., water consumption, rainfall patterns) pose significant challenges. Our work involves developing tools and climate data products that help stakeholders think through these issues and develop resilient long-term plans. This includes assessing future water supply risks and guiding sustainable management practices.
+### 1) Water Resource Systems Risk
+Population growth and changes in water supply patterns across Florida (e.g., water consumption, rainfall patterns) pose significant challenges. Our work involves developing tools and climate data products that help stakeholders think through these issues and develop resilient long-term plans. This includes assessing future water supply risks, strategy development for the design and operation of water management facilities and local infrastructure systems, as well as guiding sustainable management practices.
 
 ### 2) Stormwater Systems Resilience
 The intensification of precipitation extremes impacts stormwater management systems, particularly in Florida. We focus on developing climate data that help adapt stormwater system design parameters, enhancing the resilience of these systems to climate challenges. Our research supports local governments and engineers in designing stormwater infrastructure that can withstand future climatic conditions.
