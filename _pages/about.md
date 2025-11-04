@@ -35,4 +35,14 @@ Address: 261 Frazier-Rogers Hall, 1741 Museum Rd, Gainesville, FL 32611 <br/>
 P.O. Box: 110570 <br/>
 Phone: 352-294-6739
 
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3575.229459502574!2d-82.35549632466156!3d29.64340367516443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e8a2b8c25f7a2f%3A0xbde49f6a583ff74c!2sFrazier-Rogers%20Hall%2C%202918%20Museum%20Rd%2C%20Gainesville%2C%20FL%2032603!5e0!3m2!1sen!2sus!4v1730746500000!5m2!1sen!2sus" 
+  width="600" 
+  height="450" 
+  style="border:0;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
 <img src="images/University-of-Florida-Logo.png" alt="Graphical Abstract" width="70%" />
