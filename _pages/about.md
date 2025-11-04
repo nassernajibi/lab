@@ -37,8 +37,8 @@ P.O. Box: 110570 <br/>
 Phone: 352-294-6739
 
 <div style="position:relative;overflow:hidden;padding-top:56.25%;">
-  <iframe
-    src="https://www.google.com/maps?q=29.644499926203494,-82.3454232476275&z=19&output=embed"
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3575.218221262467!2d-82.34799612466148!3d29.644421175164304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e8a3005441c363%3A0xd784a5b2dc11520e!2sFrazier-Rogers%20Hall!5e0!3m2!1sen!2sus!4v1730748900000!5m2!1sen!2sus"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     allowfullscreen=""
     loading="lazy"
