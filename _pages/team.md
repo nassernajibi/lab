@@ -64,7 +64,7 @@ B.Sc. (University of Tehran)<br/>
     <h3>Xiwei Wang</h3>
     <ul>
       B.Sc. Student (University of Florida) (2025/08 - )<br/>
-      <li><strong>Research Interests:</strong> flood impacts assessment and disaster management </li>
+      <li><strong>Research Interests:</strong> natural hazards assessment and disaster management frameworks </li>
       <li><strong>Email:</strong> 
         wang.xiwei <@> ufl {.} edu</li>
       <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a>
