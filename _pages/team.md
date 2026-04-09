@@ -55,8 +55,10 @@ B.Sc. (University of Tehran)<br/>
       </li>
     </ul>
   </div>
+  
+</div>
 
-
+<div style="display: flex; align-items: center; gap: 20px;">
   <!-- Left column: text -->
   <div style="flex: 1; max-width: 70%; text-align: left;">
     <h3>Xiwei Wang</h3>
@@ -69,9 +71,9 @@ B.Sc. (University of Tehran)<br/>
       </li>
     </ul>
   </div>
-  
-  
-</div>
+ 
+</div> 
+
 
 
 ### First Name, Last Name
