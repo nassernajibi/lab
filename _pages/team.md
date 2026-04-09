@@ -56,16 +56,23 @@ B.Sc. (University of Tehran)<br/>
     </ul>
   </div>
 
+
+  <!-- Left column: text -->
+  <div style="flex: 1; max-width: 70%; text-align: left;">
+    <h3>Xiwei Wang</h3>
+    <ul>
+      B.Sc. Student (University of Florida) (2025/08 - )<br/>
+      <li><strong>Research Interests:</strong> flood impacts assessment and disaster management </li>
+      <li><strong>Email:</strong> 
+        wang.xiwei <@> ufl {.} edu</li>
+      <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a>
+      </li>
+    </ul>
+  </div>
+  
   
 </div>
 
-
-### First Name, Last Name
-- Undergraduate Student (see [Opportunities](https://nassernajibi.github.io/lab/opportunities/){:target="_blank"} tab)
-- **Research Interests:** expertise 1, expertise 2.
-- **Experience:** 
-- **Email:**
-- Web
 
 ### First Name, Last Name
 - Postdoctoral Researcher (see [Opportunities](https://nassernajibi.github.io/lab/opportunities/){:target="_blank"} tab)
