@@ -94,49 +94,40 @@ B.Sc. (University of Tehran)<br/>
 
 ## Past Group Members (Interns, Students)
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-  <!-- Left column: text -->
-  <div style="flex: 1; max-width: 70%;">
+  <div style="width: 100%; text-align: left;">
     <h3>Eduardo D. Aragon Rodriguez</h3>
     <ul>
       UF Active Learning Program (ALP): CASCADES: Cluster Analysis of Spatial Critical Assets and Data Environments in Storms (Summer 2026) <br/>
-      <li><a href="https://eduardoaragonrod.github.io/SE-Flood-Risk-Analysis/" target="_blank">GitHub</a>
-      </li>
+      <li><a href="https://eduardoaragonrod.github.io/SE-Flood-Risk-Analysis/" target="_blank">GitHub</a></li>
     </ul>
   </div>
-  
-  <!-- Left column: text -->
-  <div style="flex: 1; max-width: 70%;">
+
+  <div style="width: 100%; text-align: left;">
     <h3>Pranathi Madishetty</h3>
     <ul>
       UF Active Learning Program (ALP): Understanding The Relationship Between Flood Events and Agricultural Losses in Florida (Summer 2026) <br/>
-      <li><a href="https://github.com/pmad06/flood-related-crop-losses" target="_blank">GitHub</a>
-      </li>
+      <li><a href="https://github.com/pmad06/flood-related-crop-losses" target="_blank">GitHub</a></li>
     </ul>
   </div>
-  
-    <!-- Left column: text -->
-  <div style="flex: 1; max-width: 70%;">
+
+  <div style="width: 100%; text-align: left;">
     <h3>Sierra G. Evans</h3>
     <ul>
       UF Active Learning Program (ALP): Exploring the Characteristics of Flood Events Derived from Satellite Observations and News Records across the United States (Summer 2026) <br/>
-      <li><a href="https://sierrae1.github.io/ALP-Extreme-Weather-Risk-Assessment/" target="_blank">GitHub</a>
-      </li>
+      <li><a href="https://sierrae1.github.io/ALP-Extreme-Weather-Risk-Assessment/" target="_blank">GitHub</a></li>
     </ul>
   </div>
-  
-  <!-- Left column: text -->
-  <div style="flex: 1; max-width: 70%;">
+
+  <div style="width: 100%; text-align: left;">
     <h3>Xiwei Wang</h3>
     <ul>
       B.Sc. Student (University of Florida) (2025/08 - )<br/>
       <li><strong>Research Interests:</strong> natural hazards assessment and disaster management frameworks </li>
-      <li><strong>Email:</strong> 
-        wang.xiwei <@> ufl {.} edu</li>
-      <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a>
-      </li>
+      <li><strong>Email:</strong> wang.xiwei <@> ufl {.} edu</li>
+      <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a></li>
     </ul>
   </div>
- 
-</div> 
+
+</div>
