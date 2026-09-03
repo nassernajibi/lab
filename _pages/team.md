@@ -28,8 +28,8 @@ B.Sc. (University of Tehran)<br/>
       M.Sc. Student (University of Florida) (2025/08 - )<br/>
       M.Sc. (University of Manchester)<br/>
       B.Sc. (University of Bristol)<br/>
-      <li><strong>Research Interests:</strong> compound heatwaves and cascading risks </li>
-      <li><strong>Email:</strong> fawazbouhamad <@> ufl {.} edu</li>
+      <li>Research Interests: compound heatwaves and cascading risks </li>
+      <li>Email: fawazbouhamad <@> ufl {.} edu</li>
       <li><a href="https://github.com/fawazbouhamad" target="_blank">GitHub</a>  
         <a href="https://www.linkedin.com/in/fawazbouhamad/" target="_blank">LinkedIn</a>  
         <a href="https://orcid.org/0009-0009-4138-6126" target="_blank">ORCiD</a>
@@ -42,8 +42,8 @@ B.Sc. (University of Tehran)<br/>
       Ph.D. Student (University of Florida) (2025/08 - )<br/>
       M.Sc. (Polytechnic University of Milan)<br/>
       B.Sc. (IK International University)<br/>
-      <li><strong>Research Interests:</strong> precipitation extremes and dynamics modeling </li>
-      <li><strong>Email:</strong> mhatamigoloujeh <@> ufl {.} edu</li>
+      <li> Research Interests: precipitation extremes and dynamics modeling </li>
+      <li> Email: mhatamigoloujeh <@> ufl {.} edu</li>
       <li><a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
         <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a>
         <a href="https://hatamimatt.github.io" target="_blank">Homepage</a>          
@@ -57,8 +57,8 @@ B.Sc. (University of Tehran)<br/>
       Ph.D. Student (University of Florida) (2026/08 - )<br/>
       M.Sc. (Indian Institute of Science)<br/>
       B.Sc. (Acharya Institute of Technology)<br/>
-      <li><strong>Research Interests:</strong> impacts of weather extremes on IT infrastructure systems </li>
-      <li><strong>Email:</strong> chandana.tumkurp <@> ufl {.} edu</li>
+      <li> Research Interests: impacts of weather extremes on IT infrastructure systems </li>
+      <li> Email: chandana.tumkurp <@> ufl {.} edu</li>
       <li><a href="https://github.com/XXXX" target="_blank">GitHub</a>
         <a href="https://www.linkedin.com/in/t-p-chandana-52ba77218/" target="_blank">LinkedIn</a>        
         <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">Google Scholar</a>  
@@ -109,8 +109,8 @@ B.Sc. (University of Tehran)<br/>
     <h3 style="margin-top: 0; margin-bottom: 2px;">Xiwei Wang</h3>
     <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       B.Sc. Student (University of Florida) (2025/08 - )<br/>
-      <li><strong>Research Interests:</strong> natural hazards assessment and disaster management frameworks </li>
-      <li><strong>Email:</strong> wang.xiwei <@> ufl {.} edu</li>
+      <li> Research Interests: natural hazards assessment and disaster management frameworks </li>
+      <li> Email: wang.xiwei <@> ufl {.} edu</li>
       <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a></li>
     </ul>
   </div>
