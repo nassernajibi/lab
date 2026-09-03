@@ -21,11 +21,10 @@ B.Sc. (University of Tehran)<br/>
 
 ## Current Members
 
-<div style="display: flex; flex-direction: column; gap: 5px;">
-
-  <div style="width: 100%; text-align: left;">
-    <h3 style="margin-bottom: 2px;">Fawaz A T A Bouhamad</h3>
-    <ul style="margin-top: 0; padding-left: 20px;">
+<div style="display: flex; flex-direction: column; gap: 0px;">
+  <div style="width: 100%; text-align: left; margin-bottom: 10px;">
+    <h3 style="margin-top: 0; margin-bottom: 2px;">Fawaz A T A Bouhamad</h3>
+    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       M.Sc. Student (University of Florida) (2025/08 - )<br/>
       M.Sc. (University of Manchester)<br/>
       B.Sc. (University of Bristol)<br/>
@@ -37,10 +36,9 @@ B.Sc. (University of Tehran)<br/>
       </li>
     </ul>
   </div>
-
-  <div style="width: 100%; text-align: left;">
-    <h3 style="margin-bottom: 2px;">Mehdi "Matt" Hatami Goloujeh</h3>
-    <ul style="margin-top: 0; padding-left: 20px;">
+  <div style="width: 100%; text-align: left; margin-bottom: 10px;">
+    <h3 style="margin-top: 0; margin-bottom: 2px;">Mehdi "Matt" Hatami Goloujeh</h3>
+    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       Ph.D. Student (University of Florida) (2025/08 - )<br/>
       M.Sc. (Polytechnic University of Milan)<br/>
       B.Sc. (IK International University)<br/>
@@ -53,10 +51,9 @@ B.Sc. (University of Tehran)<br/>
       </li>
     </ul>
   </div>
-
-  <div style="width: 100%; text-align: left;">
-    <h3 style="margin-bottom: 2px;">Chandana Tumkur Prakash</h3>
-    <ul style="margin-top: 0; padding-left: 20px;">
+  <div style="width: 100%; text-align: left; margin-bottom: 10px;">
+    <h3 style="margin-top: 0; margin-bottom: 2px;">Chandana Tumkur Prakash</h3>
+    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       Ph.D. Student (University of Florida) (2026/08 - )<br/>
       M.Sc. (Indian Institute of Science)<br/>
       B.Sc. (Acharya Institute of Technology)<br/>
@@ -68,7 +65,6 @@ B.Sc. (University of Tehran)<br/>
       </li>
     </ul>
   </div>
-
 </div>
 
 ### First Name, Last Name
@@ -87,40 +83,35 @@ B.Sc. (University of Tehran)<br/>
 
 ## Past Group Members (Interns, Students)
 
-<div style="display: flex; flex-direction: column; gap: 5px;">
-
-  <div style="width: 100%; text-align: left;">
-    <h3 style="margin-bottom: 2px;">Eduardo D. Aragon Rodriguez</h3>
-    <ul style="margin-top: 0; padding-left: 20px;">
+<div style="display: flex; flex-direction: column; gap: 0px;">
+  <div style="width: 100%; text-align: left; margin-bottom: 10px;">
+    <h3 style="margin-top: 0; margin-bottom: 2px;">Eduardo D. Aragon Rodriguez</h3>
+    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       UF Active Learning Program (ALP): CASCADES: Cluster Analysis of Spatial Critical Assets and Data Environments in Storms (Summer 2026) <br/>
       <li><a href="https://eduardoaragonrod.github.io/SE-Flood-Risk-Analysis/" target="_blank">GitHub</a></li>
     </ul>
   </div>
-
-  <div style="width: 100%; text-align: left;">
-    <h3 style="margin-bottom: 2px;">Pranathi Madishetty</h3>
-    <ul style="margin-top: 0; padding-left: 20px;">
+  <div style="width: 100%; text-align: left; margin-bottom: 10px;">
+    <h3 style="margin-top: 0; margin-bottom: 2px;">Pranathi Madishetty</h3>
+    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       UF Active Learning Program (ALP): Understanding The Relationship Between Flood Events and Agricultural Losses in Florida (Summer 2026) <br/>
       <li><a href="https://github.com/pmad06/flood-related-crop-losses" target="_blank">GitHub</a></li>
     </ul>
   </div>
-
-  <div style="width: 100%; text-align: left;">
-    <h3 style="margin-bottom: 2px;">Sierra G. Evans</h3>
-    <ul style="margin-top: 0; padding-left: 20px;">
+  <div style="width: 100%; text-align: left; margin-bottom: 10px;">
+    <h3 style="margin-top: 0; margin-bottom: 2px;">Sierra G. Evans</h3>
+    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       UF Active Learning Program (ALP): Exploring the Characteristics of Flood Events Derived from Satellite Observations and News Records across the United States (Summer 2026) <br/>
       <li><a href="https://sierrae1.github.io/ALP-Extreme-Weather-Risk-Assessment/" target="_blank">GitHub</a></li>
     </ul>
   </div>
-
-  <div style="width: 100%; text-align: left;">
-    <h3 style="margin-bottom: 2px;">Xiwei Wang</h3>
-    <ul style="margin-top: 0; padding-left: 20px;">
+  <div style="width: 100%; text-align: left; margin-bottom: 10px;">
+    <h3 style="margin-top: 0; margin-bottom: 2px;">Xiwei Wang</h3>
+    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
       B.Sc. Student (University of Florida) (2025/08 - )<br/>
       <li><strong>Research Interests:</strong> natural hazards assessment and disaster management frameworks </li>
       <li><strong>Email:</strong> wang.xiwei <@> ufl {.} edu</li>
       <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a></li>
     </ul>
   </div>
-
 </div>
