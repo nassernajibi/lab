@@ -20,9 +20,10 @@ B.Sc. (University of Tehran)<br/>
 - [IFAS-ABE](https://abe.ufl.edu/people/faculty/nasser-najibi/){:target="_blank"} [IFAS-CLUE](https://clue.ifas.ufl.edu/faculty/nasser-najibi/){:target="_blank"} [Homepage](http://www.nassernajibi.com){:target="_blank"} [LinkedIn](https://www.linkedin.com/in/nassernajibi/){:target="_blank"} 
 
 ## Current Members
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Left column: text -->
-  <div style="flex: 1; max-width: 70%; text-align: left;">
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="width: 100%; text-align: left;">
     <h3>Fawaz A T A Bouhamad</h3>
     <ul>
       M.Sc. Student (University of Florida) (2025/08 - )<br/>
@@ -37,9 +38,8 @@ B.Sc. (University of Tehran)<br/>
       </li>
     </ul>
   </div>
-  
-  <!-- Left column: text -->
-  <div style="flex: 1; max-width: 70%; text-align: left;">
+
+  <div style="width: 100%; text-align: left;">
     <h3>Mehdi "Matt" Hatami Goloujeh</h3>
     <ul>
       Ph.D. Student (University of Florida) (2025/08 - )<br/>
@@ -50,14 +50,13 @@ B.Sc. (University of Tehran)<br/>
         mhatamigoloujeh <@> ufl {.} edu</li>
       <li><a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
         <a href="https://www.linkedin.com/in/hatamimatt/" target="_blank">LinkedIn</a>
-        <a href="https://hatamimatt.github.io" target="_blank">Homepage</a>  		
+        <a href="https://hatamimatt.github.io" target="_blank">Homepage</a>          
         <a href="https://scholar.google.com/citations?user=N0m5rRUAAAAJ&hl" target="_blank">Google Scholar</a>  
       </li>
     </ul>
   </div>
-  
-    <!-- Left column: text -->
-  <div style="flex: 1; max-width: 70%; text-align: left;">
+
+  <div style="width: 100%; text-align: left;">
     <h3>Chandana Tumkur Prakash</h3>
     <ul>
       Ph.D. Student (University of Florida) (2026/08 - )<br/>
@@ -67,14 +66,13 @@ B.Sc. (University of Tehran)<br/>
       <li><strong>Email:</strong> 
         chandana.tumkurp <@> ufl {.} edu</li>
       <li><a href="https://github.com/XXXX" target="_blank">GitHub</a>
-        <a href="https://www.linkedin.com/in/t-p-chandana-52ba77218/" target="_blank">LinkedIn</a>		
+        <a href="https://www.linkedin.com/in/t-p-chandana-52ba77218/" target="_blank">LinkedIn</a>        
         <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">Google Scholar</a>  
       </li>
     </ul>
   </div>
-  
-</div>
 
+</div>
 
 
 
