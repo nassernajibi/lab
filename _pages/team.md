@@ -67,19 +67,6 @@ B.Sc. (University of Tehran)<br/>
   </div>
 </div>
 
-### First Name, Last Name
-- Postdoctoral Researcher (see [Opportunities](https://nassernajibi.github.io/lab/opportunities/){:target="_blank"} tab)
-- **Research Interests:** expertise 1, expertise 2.
-- **Experience:** 
-- **Email:**
-- Web
-
-### First Name, Last Name
-- Visiting Scholar (see [Opportunities](https://nassernajibi.github.io/lab/opportunities/){:target="_blank"} tab)
-- **Research Interests:** expertise 1, expertise 2.
-- **Experience:** 
-- **Email:**
-- Web
 
 ## Past Group Members (Interns, Students)
 
@@ -87,21 +74,21 @@ B.Sc. (University of Tehran)<br/>
   <div style="width: 100%; text-align: left; margin-bottom: 10px;">
     <h3 style="margin-top: 0; margin-bottom: 2px;">Eduardo D. Aragon Rodriguez</h3>
     <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
-      UF Active Learning Program (ALP): CASCADES: Cluster Analysis of Spatial Critical Assets and Data Environments in Storms (Summer 2026) <br/>
+      UF/ALP: CASCADES: Cluster Analysis of Spatial Critical Assets and Data Environments in Storms (Summer 2026) <br/>
       <li><a href="https://eduardoaragonrod.github.io/SE-Flood-Risk-Analysis/" target="_blank">GitHub</a></li>
     </ul>
   </div>
   <div style="width: 100%; text-align: left; margin-bottom: 10px;">
     <h3 style="margin-top: 0; margin-bottom: 2px;">Pranathi Madishetty</h3>
     <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
-      UF Active Learning Program (ALP): Understanding The Relationship Between Flood Events and Agricultural Losses in Florida (Summer 2026) <br/>
+      UF/ALP: Understanding The Relationship Between Flood Events and Agricultural Losses in Florida (Summer 2026) <br/>
       <li><a href="https://github.com/pmad06/flood-related-crop-losses" target="_blank">GitHub</a></li>
     </ul>
   </div>
   <div style="width: 100%; text-align: left; margin-bottom: 10px;">
     <h3 style="margin-top: 0; margin-bottom: 2px;">Sierra G. Evans</h3>
     <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
-      UF Active Learning Program (ALP): Exploring the Characteristics of Flood Events Derived from Satellite Observations and News Records across the United States (Summer 2026) <br/>
+      UF/ALP: Exploring the Characteristics of Flood Events Derived from Satellite Observations and News Records across the United States (Summer 2026) <br/>
       <li><a href="https://sierrae1.github.io/ALP-Extreme-Weather-Risk-Assessment/" target="_blank">GitHub</a></li>
     </ul>
   </div>
