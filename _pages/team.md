@@ -59,9 +59,9 @@ B.Sc. (University of Tehran)<br/>
       B.Sc. (Acharya Institute of Technology)<br/>
       <li> Research Interests: impacts of weather extremes on IT infrastructure systems </li>
       <li> Email: chandana.tumkurp <@> ufl {.} edu</li>
-      <li><a href="https://github.com/XXXX" target="_blank">GitHub</a>
+      <li><a href="https://github.com/TPCHANDANA" target="_blank">GitHub</a>
         <a href="https://www.linkedin.com/in/t-p-chandana-52ba77218/" target="_blank">LinkedIn</a>        
-        <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">Google Scholar</a>  
+        <a href="https://scholar.google.com/citations?user=ealyM-sAAAAJ" target="_blank">Google Scholar</a>  
       </li>
     </ul>
   </div>
