@@ -8,7 +8,7 @@ author_profile: true  # Optional, depending on your theme
 <img src="https://raw.githubusercontent.com/nassernajibi/lab/master/images/nassernajibi_photo.png" width="15%" alt="Nasser photo" />
 ### Nasser Najibi, Principal Investigator
 - Assistant Professor (Tenure-Track, 2025/01 - )
-- **Research Interests:** climate risk, system resilience, hydroclimate extremes, water resources, climate impacts, remote sensing applications, data-driven models (e.g., stochastic, xAI, SciML, GeoAI)<br/>
+- **Research Interests:** hydroclimate extremes, weather risk, system resilience, water resources systems, decision support systems, remote sensing applications, data-driven models (e.g., stochastic, xAI, SciML, GeoAI)<br/>
 Research Associate (Cornell University)<br/>
 ORISE Postdoctoral Fellow (URAU/USACE Engineer Research and Development Center)<br/>
 Postdoctoral Associate (Cornell University)<br/>
