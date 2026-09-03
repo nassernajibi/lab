@@ -28,7 +28,7 @@ B.Sc. (University of Tehran)<br/>
       M.Sc. Student (University of Florida) (2025/08 - )<br/>
       M.Sc. (University of Manchester)<br/>
       B.Sc. (University of Bristol)<br/>
-      <li><strong>Research Interests:</strong> compound heatwaves and multi-sector impacts </li>
+      <li><strong>Research Interests:</strong> compound heatwaves and cascading risks </li>
       <li><strong>Email:</strong> 
         fawazbouhamad <@> ufl {.} edu</li>
       <li><a href="https://github.com/fawazbouhamad" target="_blank">GitHub</a>  
@@ -45,7 +45,7 @@ B.Sc. (University of Tehran)<br/>
       Ph.D. Student (University of Florida) (2025/08 - )<br/>
       M.Sc. (Polytechnic University of Milan)<br/>
       B.Sc. (IK International University)<br/>
-      <li><strong>Research Interests:</strong> precipitation extremes and impacts modeling </li>
+      <li><strong>Research Interests:</strong> precipitation extremes and dynamics modeling </li>
       <li><strong>Email:</strong> 
         mhatamigoloujeh <@> ufl {.} edu</li>
       <li><a href="https://github.com/HatamiMatt" target="_blank">GitHub</a>
@@ -56,23 +56,25 @@ B.Sc. (University of Tehran)<br/>
     </ul>
   </div>
   
-</div>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Left column: text -->
+    <!-- Left column: text -->
   <div style="flex: 1; max-width: 70%; text-align: left;">
-    <h3>Xiwei Wang</h3>
+    <h3>Chandana Tumkur Prakash</h3>
     <ul>
-      B.Sc. Student (University of Florida) (2025/08 - )<br/>
-      <li><strong>Research Interests:</strong> natural hazards assessment and disaster management frameworks </li>
+      Ph.D. Student (University of Florida) (2026/08 - )<br/>
+      M.Sc. (Indian Institute of Science)<br/>
+      B.Sc. (Acharya Institute of Technology)<br/>
+      <li><strong>Research Interests:</strong> impacts of weather extremes on IT infrastructure systems </li>
       <li><strong>Email:</strong> 
-        wang.xiwei <@> ufl {.} edu</li>
-      <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a>
+        chandana.tumkurp <@> ufl {.} edu</li>
+      <li><a href="https://github.com/XXXX" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/t-p-chandana-52ba77218/" target="_blank">LinkedIn</a>		
+        <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">Google Scholar</a>  
       </li>
     </ul>
   </div>
- 
-</div> 
+  
+</div>
+
 
 
 
@@ -90,4 +92,51 @@ B.Sc. (University of Tehran)<br/>
 - **Email:**
 - Web
 
-## Past Group Members
+## Past Group Members (Interns, Students)
+
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <!-- Left column: text -->
+  <div style="flex: 1; max-width: 70%; text-align: left;">
+    <h3>Eduardo D. Aragon Rodriguez</h3>
+    <ul>
+      UF Active Learning Program (ALP): CASCADES: Cluster Analysis of Spatial Critical Assets and Data Environments in Storms (Summer 2026) <br/>
+      <li><a href="https://eduardoaragonrod.github.io/SE-Flood-Risk-Analysis/" target="_blank">GitHub</a>
+      </li>
+    </ul>
+  </div>
+  
+  <!-- Left column: text -->
+  <div style="flex: 1; max-width: 70%; text-align: left;">
+    <h3>Pranathi Madishetty</h3>
+    <ul>
+      UF Active Learning Program (ALP): Understanding The Relationship Between Flood Events and Agricultural Losses in Florida (Summer 2026) <br/>
+      <li><a href="https://github.com/pmad06/flood-related-crop-losses" target="_blank">GitHub</a>
+      </li>
+    </ul>
+  </div>
+  
+    <!-- Left column: text -->
+  <div style="flex: 1; max-width: 70%; text-align: left;">
+    <h3>Sierra G. Evans</h3>
+    <ul>
+      UF Active Learning Program (ALP): Exploring the Characteristics of Flood Events Derived from Satellite Observations and News Records across the United States (Summer 2026) <br/>
+      <li><a href="https://sierrae1.github.io/ALP-Extreme-Weather-Risk-Assessment/" target="_blank">GitHub</a>
+      </li>
+    </ul>
+  </div>
+  
+  <!-- Left column: text -->
+  <div style="flex: 1; max-width: 70%; text-align: left;">
+    <h3>Xiwei Wang</h3>
+    <ul>
+      B.Sc. Student (University of Florida) (2025/08 - )<br/>
+      <li><strong>Research Interests:</strong> natural hazards assessment and disaster management frameworks </li>
+      <li><strong>Email:</strong> 
+        wang.xiwei <@> ufl {.} edu</li>
+      <li><a href="https://github.com/xiweiwang864-bit" target="_blank">GitHub</a>
+      </li>
+    </ul>
+  </div>
+ 
+</div> 
