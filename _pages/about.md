@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Climate Extremes, Risk, and Resilience (CLEAR) Lab!"
+title: "Welcome to Climate Extremes, Risk, and Resilience (climateX) Lab!"
 author_profile: true
 redirect_from: 
   - /about/
