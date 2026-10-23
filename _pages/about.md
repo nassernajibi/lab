@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="images/climateX.png" alt="Graphical Logo" width="45%" />
+<img src="images/climateX.png" alt="Graphical Logo" width="50%" />
 
 We work on enhancing hydroclimate risk assessments and disaster resilience analytics in built and environmental systems.<br/>
 
