@@ -1,20 +1,21 @@
 ---
 permalink: /
-title: "Welcome to Climate Extremes, Risk, and Resilience (climateX) Lab!"
+title: "Climate Extremes, Risk, and Resilience (climateX) Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<img src="images/climateX.png" alt="Graphical Logo" width="30%" />
 
-We work on enhancing climate risk assessments and disaster resilience in built and environmental systems.<br/>
+We work on enhancing hydroclimate risk assessments and disaster resilience analytics in built and environmental systems.<br/>
 
-Dr. Najibi's Research Group focuses on understanding multisector, uncertain, and dynamic climate risks to enhance system resilience and adaptation to single or multi-hazards evolving with the changing environment.<br/>
-Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events (e.g., floods, droughts, rainstorms, heat waves) to enhancing climate resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
+Dr. Najibi's Research Group focuses on understanding multisector, uncertain, and dynamic climate risks to advance system resilience and adaptation strategies to single or multi-hazards evolving with the changing environment.<br/>
+Our interdisciplinary, mission-driven research tackles a broad spectrum of challenges, from evaluating the risks of extreme weather events (e.g., floods, droughts, rainstorms, heat/cold waves) to enhancing system resilience and developing robust planning and management strategies that can adapt to a changing environment and anthropogenic landscape transformations.<br/>
 
 <img src="images/lab_graphical_abstract_2.png" alt="Graphical Abstract" width="50%" />
 
-The ultimate goal of our Lab is to develop practical knowledge and decision-making tools to address the pressing challenges of evolving risks and foster more resilient communities and sustainable interconnected systems (built, natural, and human) capable of withstanding and adapting to the multifaceted impacts of a rapidly changing climate and environment across scales.
+The ultimate goal of our Lab is to develop practical knowledge and robust decision-making tools to address the pressing challenges of evolving risks and foster more resilient communities and sustainable interconnected systems (built, natural, and human) capable of withstanding and adapting to the multifaceted impacts of a rapidly changing climate and environment across scales.
 
 What we do
 ======
